@@ -297,6 +297,6 @@ For questions or collaboration opportunities, please contact any of the team mem
 
 ---
 
-**Year**: 2026  
+**Year**: 2024/2025  
 **Specialty**: Artificial Intelligence and Data Science (AIDS)  
 **Level**: 4th Year Pluridisciplinary Project
