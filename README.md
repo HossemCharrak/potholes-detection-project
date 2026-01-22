@@ -33,6 +33,13 @@ This project presents an automated computer vision system for detecting potholes
 
 ---
 
+## Datasets:
+
+- https://www.kaggle.com/datasets/charrakhossem/merged-potholes-speedbumps
+- https://www.kaggle.com/datasets/belmanasoufyane/pothole-speedbumps
+- https://www.kaggle.com/datasets/arnavsan7x24/pothole-videos
+- https://www.kaggle.com/datasets/sudhanshu2198/potholes-detection-inference-on-videos
+
 ## 🤖 Models Implemented
 
 ### 1. YOLOv8-Small
